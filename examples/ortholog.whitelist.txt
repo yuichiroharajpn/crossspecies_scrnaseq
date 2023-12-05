@@ -1,0 +1,2 @@
+Mouse gene ID	Mouse gene name	Chicken gene ID	Chicken gene name	Chinese softshell turtle gene ID	Chinese softshell turtle gene name
+ENSMUSG00000020950	Foxg1	ENSGALG00010006854	FOXG1	ENSPSIG00000000017	FOXG1
